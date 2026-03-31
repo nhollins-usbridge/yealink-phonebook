@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vp_contact>
+	<root_group>
+		<group display_name="All Contacts" />
+		<group display_name="Blocklist" />
+		<group display_name="Quality Control" />
+		<group display_name="Accounting" />
+		<group display_name="Manufacturing" />
+		<group display_name="First Responder" />
+		<group display_name="Inspector" />
+		<group display_name="Sales" />
+		<group display_name="Garage" />
+		<group display_name="Conference Room" />
+		<group display_name="Plant" />
+		<group display_name="Officers" />
+		<group display_name="Project Mangement" />
+		<group display_name="Outsourcing" />
+		<group display_name="Engineers" />
+		<group display_name="Procurement" />
+		<group display_name="Material Handling" />
+		<group display_name="Logistics" />
+		<group display_name="Estimator" />
+		<group display_name="Maintenance" />
+		<group display_name="Roofers" />
+		<group display_name="Test Group" />
+	</root_group>
+	<root_contact>
+		<contact display_name="Art Rogovin" office_number="9337" mobile_number="17408190053" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Officers" eyepea_contact_id="" />
+		<contact display_name="Blake Brumfield" office_number="9365" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Project Mangement" eyepea_contact_id="" />
+		<contact display_name="Brandon Jeffers" office_number="9362" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Engineers" eyepea_contact_id="" />
+		<contact display_name="Brian Merganthaler" office_number="9374" mobile_number="14124457661" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Sales" eyepea_contact_id="" />
+		<contact display_name="Casey Rich" office_number="9351" mobile_number="17408011775" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Accounting" eyepea_contact_id="" />
+		<contact display_name="CEO Conference" office_number="9376" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+		<contact display_name="Christian Hasel" office_number="9363" mobile_number="17406305345" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Procurement" eyepea_contact_id="" />
+		<contact display_name="Christian Hasel" office_number="9363" mobile_number="17406305345" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="Damon Howilier" mobile_number="17402382423" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Damon Howilier" mobile_number="17402382423" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="Dan Miser" mobile_number="17409959705" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Quality Control" eyepea_contact_id="" />
+		<contact display_name="Dan Rogovin" office_number="9338" mobile_number="16148936555" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Officers" eyepea_contact_id="" />
+		<contact display_name="Dan Savage" mobile_number="17402609530" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Roofers" eyepea_contact_id="" />
+		<contact display_name="Danielle Vineyard" office_number="9367" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Project Mangement" eyepea_contact_id="" />
+		<contact display_name="Dave Morgan" office_number="9360" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Engineers" eyepea_contact_id="" />
+		<contact display_name="Dee Hashman" office_number="9348" mobile_number="17403912566" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Accounting" eyepea_contact_id="" />
+		<contact display_name="Dee Hashman" office_number="9348" mobile_number="17403912566" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="Dennis Gonano" office_number="9373" mobile_number="17406308459" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Sales" eyepea_contact_id="" />
+		<contact display_name="Dennis Stephens" mobile_number="17408018451" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Dennis Stephens" mobile_number="17408018451" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="DGS" office_number="9401" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Outsourcing" eyepea_contact_id="" />
+		<contact display_name="Donald Perdue" mobile_number="17402551732" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Ed Tipton" mobile_number="17402605420" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Engineering Conference" office_number="9377" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+		<contact display_name="Ethan Regan" office_number="9342" mobile_number="17408012624" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Manufacturing" eyepea_contact_id="" />
+		<contact display_name="HR Conference" office_number="9378" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+		<contact display_name="Inspector ODOT" office_number="9368" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Inspector" eyepea_contact_id="" />
+		<contact display_name="Inspector Office 1" office_number="9381" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Inspector" eyepea_contact_id="" />
+		<contact display_name="Inspector Office 2" office_number="9382" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Inspector" eyepea_contact_id="" />
+		<contact display_name="Inspector Office 3" office_number="9383" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Inspector" eyepea_contact_id="" />
+		<contact display_name="Isaac Gann" office_number="9366" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Project Mangement" eyepea_contact_id="" />
+		<contact display_name="Jeff Cutlip" office_number="9361" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Engineers" eyepea_contact_id="" />
+		<contact display_name="Jeff Porter" office_number="9344" mobile_number="17408190314" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Logistics" eyepea_contact_id="" />
+		<contact display_name="Jim Bayly" mobile_number="17408194230" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="John Arnett" mobile_number="17402604134" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="John Arnett" mobile_number="17402604134" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="Jonathan Benitez" office_number="9372" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Sales" eyepea_contact_id="" />
+		<contact display_name="Justin  Lucas" mobile_number="17402968427" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Kyle Bourne" mobile_number="17408012023" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Quality Control" eyepea_contact_id="" />
+		<contact display_name="Large Conference" office_number="9375" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+		<contact display_name="Lorrin Milatovich" office_number="9349" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Accounting" eyepea_contact_id="" />
+		<contact display_name="Matt Cash" mobile_number="17406240744" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Maintenance" eyepea_contact_id="" />
+		<contact display_name="Matt Watson" mobile_number="17406306576" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Matthew Heatherington" mobile_number="17402386899" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Mike Blackstone" mobile_number="17402556787" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Nate Hollins" office_number="9346" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Accounting" eyepea_contact_id="" />
+		<contact display_name="Nireesha Pentakota" mobile_number="14088365201" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Outsourcing" eyepea_contact_id="" />
+		<contact display_name="Paul Carpenter" office_number="9343" mobile_number="17408194467" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Manufacturing" eyepea_contact_id="" />
+		<contact display_name="Rajat Shah" office_number="9340" mobile_number="13306977739" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Officers" eyepea_contact_id="" />
+		<contact display_name="Randy  MacMillan" mobile_number="17402605505" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Rekha Bhat" office_number="9400" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Outsourcing" eyepea_contact_id="" />
+		<contact display_name="Richard Rogovin" office_number="9339" mobile_number="16142095010" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Officers" eyepea_contact_id="" />
+		<contact display_name="Rick Kehl" office_number="9369" mobile_number="17402550925" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Quality Control" eyepea_contact_id="" />
+		<contact display_name="Rob Fillon" mobile_number="17408194691" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Garage" eyepea_contact_id="" />
+		<contact display_name="Rob Fillon" mobile_number="17408194691" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="First Responder" eyepea_contact_id="" />
+		<contact display_name="Sam Brode" office_number="9352" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Engineers" eyepea_contact_id="" />
+		<contact display_name="Scott Flaten" office_number="9357" mobile_number="16144047596" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Engineers" eyepea_contact_id="" />
+		<contact display_name="Structive" office_number="9402" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Outsourcing" eyepea_contact_id="" />
+		<contact display_name="Tim Sasser" mobile_number="17408194272" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Todd Carpenter" office_number="9353" mobile_number="17408190515" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Project Mangement" eyepea_contact_id="" />
+		<contact display_name="Tom Hudson" mobile_number="17408195953" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Material Handling" eyepea_contact_id="" />
+		<contact display_name="Traci Grywalski" office_number="9364" mobile_number="17404086430" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Estimator" eyepea_contact_id="" />
+		<contact display_name="Trevor Wallace" mobile_number="17406304242" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Plant" eyepea_contact_id="" />
+		<contact display_name="Westerville Conference" office_number="9380" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+		<contact display_name="Westerville Lounge" office_number="9379" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Conference Room" eyepea_contact_id="" />
+	</root_contact>
+</vp_contact>
