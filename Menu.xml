@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneMenu>
+  <Title>Company Directory</Title>
+  <MenuItem>
+    <Name>Quality Control</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Quality_Control.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Accounting</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Accounting.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Manufacturing</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Manufacturing.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>First Responder</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/First_Responder.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Inspector</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Inspector.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Sales</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Sales.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Garage</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Garage.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Conference Room</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Conference_Room.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Plant</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Plant.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Officers</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Officers.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Project Mangement</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Project_Mangement.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Outsourcing</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Outsourcing.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Engineers</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Engineers.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Procurement</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Procurement.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Material Handling</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Material_Handling.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Logistics</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Logistics.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Estimator</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Estimator.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Maintenance</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Maintenance.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Roofers</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Roofers.xml</URL>
+  </MenuItem>
+</YealinkIPPhoneMenu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>CEO Conference</Name>
+    <Telephone>9376</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Engineering Conference</Name>
+    <Telephone>9377</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>HR Conference</Name>
+    <Telephone>9378</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Large Conference</Name>
+    <Telephone>9375</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Westerville Conference</Name>
+    <Telephone>9380</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Westerville Lounge</Name>
+    <Telephone>9379</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
