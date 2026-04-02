@@ -10,8 +10,8 @@
     <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Accounting.xml</URL>
   </MenuItem>
   <MenuItem>
-    <Name>Manufacturing</Name>
-    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Manufacturing.xml</URL>
+    <Name>Plant Management</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Plant_Management.xml</URL>
   </MenuItem>
   <MenuItem>
     <Name>First Responder</Name>
@@ -76,5 +76,9 @@
   <MenuItem>
     <Name>Roofers</Name>
     <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Roofers.xml</URL>
+  </MenuItem>
+   <MenuItem>
+    <Name>Janitorial</Name>
+    <URL>https://raw.githubusercontent.com/nhollins-usbridge/yealink-phonebook/refs/heads/main/Janitorial.xml</URL>
   </MenuItem>
 </YealinkIPPhoneMenu>
